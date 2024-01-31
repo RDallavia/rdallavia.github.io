@@ -1,2 +1,6 @@
-# rdallavia.github.io
+title: Ryan C. Dallavia
+logo: img/ya.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
 
