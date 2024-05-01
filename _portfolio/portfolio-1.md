@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Resort Pricing Study Part 1"
+excerpt: "Data wrangling portion of ski-resort pricing study. Results indicated ticket prices could be increased by over 30%.<br/><a href=https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipynb><img src='/images/Cat.jpeg'></a>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
