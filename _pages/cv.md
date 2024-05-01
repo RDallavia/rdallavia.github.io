@@ -16,7 +16,7 @@ Education
 
 Projects
 ======
-* Pricing analytics for ski-resort seeking an increase in ROA through a potential price hike and insight into the beneficent effects of a recent investment on company performance. <strong> Results of random-forest model indicated ticket prices could be increased by over 30%. </strong> Addressed research questions using internal company data and external data from comparable resorts.  Workflow consisted of data wrangling, exploratory data analysis, preprocessing, and modelling.  Technologies used included Python, Pandas, Scikit-Learn, NumPy, Seaborn, & Matplotlib.
+* Ticket price analysis for ski-resort seeking an increase in ROI through a potential price hike and insight into the beneficent effects of a recent investment on company performance. <strong> Results of random-forest model indicated ticket prices could be increased by over 30%. </strong> Addressed research questions using internal company data and external data from comparable resorts.  Workflow consisted of data wrangling, exploratory data analysis, preprocessing, and modelling.  Technologies used included Python, Pandas, Scikit-Learn, NumPy, Seaborn, & Matplotlib.
 
 * “Is There Anything On?” <strong> This low-rank, collaborative movie recommendation engine yielded 10 movie recommendations of which 70% were consistent with user preferences versus a hierarchical clustering approach that produced only 3 recommendations out of 10 that were deemed watchable. </strong> The low-rank approach relies on the family of matrix decomposition techniques popularized during the Netflix recommendation engine challenge of 2006. Technology used included Python, SciPy, NumPy, Pandas, Seaborn, Matplotlib.
 
