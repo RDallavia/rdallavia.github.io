@@ -1,5 +1,5 @@
 ---
-title: <a href='https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipyn'>"Resort Pricing Study Part 1"</a>
+title: <a href="https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipyn">Resort Pricing Study Part 1</a>
 excerpt: Data wrangling portion of ski-resort pricing study. Results indicated ticket prices could be increased by over 30%.<br/>
 <img src='/images/Cat.jpeg'>
 
