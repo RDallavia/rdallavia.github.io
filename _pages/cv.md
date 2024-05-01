@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,14 +27,18 @@ Projects
 *	Code 312: Non-profit, volunteer organization of software developers in the Chicago area.  Currently <strong> expanding the site for The Chicago Council on Science and Technology </strong> and migrating said site to GitHub Pages.
 
 
-Work experience
+Work Experience
 ======
-* K2 Advisors, L.L.C. | <i>Business Valuation Analyst</i>	Jan 2011 – Present 
+K2 Advisors, L.L.C.<br>
+Business Valuation Analyst <br>
+Jan 2011 – Present 
   * Sole proprietorship, personally incorporated, providing business/asset valuation and portfolio optimization services to attorneys representing clients who own illiquid assets producing $500,000 to $2 million in EBITDA.
   * Ascertain the reasonableness of client-supplied data via appropriate statistical techniques including: ARIMA models and multivariable regression.
   * Gained 13 years of experience in business data analytics.
 
-* Valuation Research | <i>Hedge Fund Analyst (High-Yield Debt)</i>                                       Dec 2006 – Mar 2010
+Valuation Research<br>
+Hedge Fund Analyst (High-Yield Debt)<br>
+Dec 2006 – Mar 2010
   * Valued illiquid, high-yield debt instruments held by private equity firms and hedge funds, as part of five-person team.
   * Examined historical, budgeted, and pro-forma data to track company performance and value associated securities.
   * Communicated analytical results, both orally and via concise written reports, to all levels of management (e.g., CFOs, managing directors).
