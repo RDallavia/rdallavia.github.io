@@ -29,22 +29,17 @@ Projects
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* K2 Advisors, L.L.C. | <i>Business Valuation Analyst</i>	Jan 2011 – Present 
+  * Sole proprietorship, personally incorporated, providing business/asset valuation and portfolio optimization services to attorneys representing clients who own illiquid assets producing $500,000 to $2 million in EBITDA.
+  * Ascertain the reasonableness of client-supplied data via appropriate statistical techniques including: ARIMA models and multivariable regression.
+  * Gained 13 years of experience in business data analytics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Valuation Research | <i>Hedge Fund Analyst (High-Yield Debt)</i>                                       Dec 2006 – Mar 2010
+  * Valued illiquid, high-yield debt instruments held by private equity firms and hedge funds, as part of five-person team.
+  * Examined historical, budgeted, and pro-forma data to track company performance and value associated securities.
+  * Communicated analytical results, both orally and via concise written reports, to all levels of management (e.g., CFOs, managing directors).
   
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -66,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
