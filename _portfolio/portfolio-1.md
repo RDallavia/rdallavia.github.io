@@ -1,6 +1,6 @@
 ---
-title: "Resort Pricing Study -- Data Wrangling"
-excerpt: "<a href='https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipynb'><img src='/images/Cat.jpeg'></a>"
+title: "<a href='https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipynb'>Resort Pricing Study -- Data Wrangling</a>"
+excerpt: "<img src='/images/Cat.jpeg'>"
 collection: portfolio
 ---
 
