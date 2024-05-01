@@ -24,7 +24,7 @@ Projects
 
 * "Who's Who in our Database?" Hierarchical and k-means clustering models were used to segment an airline customer database to search for similarities among users.  6 groups were chosen based on a dendrogram, and the shared characteristics within each cohort were noted.  Though this type of unsupervised learning does not result in a prediction, <strong> the insights it yielded could be used as the foundation for a targeted marketing campaign. </strong>  Written in R and relying primarily on tidyverse and caret.
 
-* •	Code 312: Non-profit, volunteer organization of software developers in the Chicago area.  Currently expanding the site for The Chicago Council on Science and Technology and migrating said site to GitHub Pages.
+*	Code 312: Non-profit, volunteer organization of software developers in the Chicago area.  Currently expanding the site for The Chicago Council on Science and Technology and migrating said site to GitHub Pages.
 
 
 Work experience
