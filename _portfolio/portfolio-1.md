@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Cat.jpeg'>"
+title: "Resort Pricing Study -- Data Wrangling"
+excerpt: "<a href='https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/02_data_wrangling.ipynb'><img src='/images/Cat.jpeg'></a>"
 collection: portfolio
 ---
 
