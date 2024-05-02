@@ -18,4 +18,3 @@ redirect_from:
 <p> Having completed the aforementioned coursework, in addition to reading countless books and sitting for a bootcamp to tie it all together, do I know everything? No, I'm quite far from knowing anything close to "everything". LLMs, RAGs, GenAI, and other acronyms are on everyone's lips. Previously completed studies, like those mentioned above, taught me how to teach myself and, thus, readied me for the challenge of understanding these models should the occasion arise. Further studies and work experience will undoubtedly prepare me to make an impact on this exciting field of inquiry.</p>
 
 <p> The pages contained in this portfolio are self-explanatory. To see a long version of my CV, simply click on the CV link. The portfolio link will take you to a respository of some of my favorite projects. Should you wish to see something that is not here, I'm more than willing to entertain requests from recruiters. 
----
