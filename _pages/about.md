@@ -15,8 +15,10 @@ redirect_from:
 
 <p>Data science and machine learning evolved rapidly post graduate school. To keep my skills sharp and relevant, MIT's OpenCourseware, Harvard's CS50x courses, and Andrew Ng's famed machine learning course at Stanford proved to be invaluable. </p>
 
-<p> Having completed the aforementioned coursework, in addition to using time-series forecasting (i.e., machine learning) in my own practice, I'm ready to jump into data science without reservation.</p>
+<p> Having completed the aforementioned coursework, in addition to using time-series forecasting (i.e., machine learning) in my own practice, I'm ready to jump into data science optimized for learning and impact.</p>
 
-<p> The pages contained in this portfolio are self-explanatory. To see a long version of my CV, simply click on the CV link. The portfolio link will take you to a repository of some of my favorite projects. Should you wish to see something that is not here, I'm more than willing to entertain requests from recruiters.
+<p> The pages contained in this portfolio are self-explanatory. To see a long version of my CV, simply click on the CV link. The portfolio link will take you to a repository of the projects described on my CV. 
+
+<p>Should you wish to see something that is not here, I'm more than willing to entertain requests from recruiters.</p>
 
 Enjoy!
