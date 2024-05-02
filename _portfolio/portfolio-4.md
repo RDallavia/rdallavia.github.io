@@ -1,6 +1,6 @@
 ---
-title: "<strong><a href='https://github.com/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/04_preprocessing_and_training.ipynb'>Resort Pricing Study -- Data Pre-processing and Modelling</a></strong>"
-excerpt: "In this notebook, we'll start to building machine learning models. Before diving into modelling, however, we'll begin by considering how useful the mean value is as a predictor. We never want to go to stakeholders with a machine learning model only to have the CEO point out that it performs worse than just guessing the average! Our first model is always a baseline performance comparitor for any subsequent model. Next, we'll build up the process of efficiently creating robust models to compare to our baseline forecast. <br> <img src='/images/pipeline.jpeg'>"
+title: "<strong><a href='https://nbviewer.org/github/RDallavia/samples/blob/main/Pricing_Analytics/Notebooks/05_modeling.ipynb'>Resort Pricing Study -- Modelling</a></strong>"
+excerpt: "In this notebook, we now take our model for ski resort ticket price and leverage it to gain some insights into what price Big Mountain's facilities might actually support, as well as explore the sensitivity of changes to various resort parameters. Note, this relies on the implicit assumption that all other resorts are largely setting prices based on how much people value certain facilities. This means comparable prices are set correctly. <br> <img src='/images/model.jpeg'>"
 collection: portfolio
 ---
 
