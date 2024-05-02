@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p>Welcome to my codefolio! Here, you'll find my CV and select projects from the machine learning domain of AI.  The samples herein represent in-memory processes due to space limitations and the more formidable barrier of the cost of cloud computing. Still, you will find some works that provide a window into what statistics at scale might look like (i.e., statistical problems turned optimization problems).</p> 
 
-<p>For the curious, while I have a quantitative master's my humble journey in data science/machine learning began in the Department of Sociology at William & Mary. My undergraduate work with university generated data sets, as well as demographic and organizational data, spurred my interest in the subject.</p> 
+<p>For the curious, while I have a quantitative master's, my humble journey in data science/machine learning began in the Department of Sociology at William & Mary. My undergraduate work with university generated data sets, as well as demographic and organizational data, spurred my interest in the subject.</p> 
 
 <p>I built upon this core competency in my graduate studies in finance, where I took additional coursework in advanced statistics and time-series forecasting.</p>
 
