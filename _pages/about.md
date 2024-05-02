@@ -17,6 +17,6 @@ redirect_from:
 
 <p> Having completed the aforementioned coursework, in addition to using time-series forecasting (i.e., machine learning) in my own practice, I'm ready to jump into data science without reservation.</p>
 
-<p> The pages contained in this portfolio are self-explanatory. To see a long version of my CV, simply click on the CV link. The portfolio link will take you to a respository of some of my favorite projects. Should you wish to see something that is not here, I'm more than willing to entertain requests from recruiters.
+<p> The pages contained in this portfolio are self-explanatory. To see a long version of my CV, simply click on the CV link. The portfolio link will take you to a repository of some of my favorite projects. Should you wish to see something that is not here, I'm more than willing to entertain requests from recruiters.
 
 Enjoy!
