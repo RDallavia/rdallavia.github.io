@@ -22,7 +22,7 @@ Projects
 
 * “That’s Unusual.”  This Gaussian anomaly detection model was used to identify networked servers worthy of inspection.  <strong> Several non-obvious servers were tagged as anomalous, which would allow a sys admin to intervene before the servers malfunctioned and avoid checking functional servers unnecessarily. </strong> This technology can be used in fraud detection. Technology used included Python, SciPy, NumPy, Pandas, Seaborn, Matplotlib.
 
-* "Who's Who in our Database?" Hierarchical and k-means clustering models were used to segment an airline customer database to search for similarities among users. 6 groups were chosen based on a dendrogram, and the shared characteristics within each cohort were noted.  Though this type of unsupervised learning does not result in a prediction, <strong> the insights it yielded could be used as the foundation for a targeted marketing campaign. </strong>  Written in R and relying primarily on tidyverse and caret.
+* "Who's Who in our Database?" Hierarchical and k-means clustering models were used to segment an airline customer database to search for similarities among users. 6 groups were chosen based on a dendrogram, and the shared characteristics within each cohort were noted.  Though this type of unsupervised learning does not result in a prediction, <strong> the insights it yields could be used as the foundation for a targeted marketing campaign. </strong>  Written in R and relying primarily on tidyverse and caret.
 
 *	Code 312: Non-profit, volunteer organization of software developers in the Chicago area.  Currently <strong> expanding the site for The Chicago Council on Science and Technology </strong> and migrating said site to GitHub Pages.
 
