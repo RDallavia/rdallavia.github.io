@@ -42,7 +42,14 @@ Dec 2006 – Mar 2010
   * Valued illiquid, high-yield debt instruments held by private equity firms and hedge funds, as part of five-person team.
   * Examined historical, budgeted, and pro-forma data to track company performance and value associated securities.
   * Communicated analytical results, both orally and via concise written reports, to all levels of management (e.g., CFOs, managing directors).
-  
+
+Certifications
+======
+* Stanford University Online – Introduction to Machine Learning (Skills Used: Python, NumPy, SciPy)
+* MITx 6.00.1 – Massachusetts Institute of Technology Online – Introduction to Programming (Skills Used: Python)
+* MITx 15.071 – Massachusetts Institute of Technology Online – Data Analytics Edge (Skills Used: R, Advanced Stats)
+* Springboard Data Science Bootcamp – 550+ hours of training in data science, machine learning, and stats
+
 <!--
 Publications
 ======
